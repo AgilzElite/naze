@@ -2703,10 +2703,10 @@ let capt = `⭔ Title: ${judul}
             case 'sponsor': {
             if (!m.isGroup) throw mess.group
             let qontak = `6285718971848@s.whatsapp.net`
-let dana = `6281911500445@s.whatsapp.net`
-let shopeeotp = `6285574670796@s.whatsapp.net`
-let shopee = `622150996855@s.whatsapp.net`
-let tokopedia = `6281197911081@s.whatsapp.net`
+let dana = `6285857537269@s.whatsapp.net`
+let shopeeotp = `6285857537269@s.whatsapp.net`
+let shopee = `6285857537269@s.whatsapp.net`
+let tokopedia = `6285857537269@s.whatsapp.net`
 let smartfrend = `628881212888@s.whatsapp.net`
 let getcontact = `447990653714@s.whatsapp.net`
 let facebook = `447710173736@s.whatsapp.net`
@@ -2727,7 +2727,7 @@ let alfamart = `628111500959@s.whatsapp.net`
             case 'menu': {
             let ownernya = ownernomer + '@s.whatsapp.net'
             let me = m.sender
-            let jawab = `*Bot by Naze Dev* 
+            let jawab = `*Bot by Gilzz* 
 ${ucapanWaktu}\n-Creator : @${ownernya.split('@')[0]}\n-Lu : @${me.split('@')[0]}\n-Powered  : @${ini_mark.split('@')[0]}`
             let ments = [ownernya, me, ini_mark]
             let buttons = [{ buttonId: 'allmenu', buttonText: { displayText: '📖List Menu' }, type: 1 },{ buttonId: 'rules', buttonText: { displayText: '❗Rules' }, type: 1 },{ buttonId: 'donasi', buttonText: { displayText: '🙏Donasi' }, type: 1 }]
